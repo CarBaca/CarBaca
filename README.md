@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **baca.carla@gmail.com**
 
-- ### I am a Data Analyst with a background in economics and statistics, and a passion for analytics and business intelligence. I have learned about data analysis and BI through self-study and specialized courses.
+### I am a Data Analyst with a background in economics and statistics, and a passion for analytics and business intelligence. I have learned about data analysis and BI through self-study and specialized courses.
 
 ### I have experience using tools like Excel, SQL, Python, Power BI, and Looker Studio to transform data into valuable insights for informed decision-making. I have worked on analyzing advertising campaign metrics, automating data updates, and creating visualizations to facilitate the understanding of complex information.
 
